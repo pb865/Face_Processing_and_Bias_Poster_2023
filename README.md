@@ -1,1 +1,1 @@
-# SPR_Poster_2023
+# Face_Processing_and_Bias_Poster_2023
